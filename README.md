@@ -3,5 +3,5 @@
 안녕하세요 😃
 
 - 블로그 - https://velog.io/@bangina
+- 이메일 - inabang.dev@gmail.com
 - 포트폴리오 - http://iina.dothome.co.kr/portfolio/ (작업중)
-- 이메일 - mojaeina@gmail.com
